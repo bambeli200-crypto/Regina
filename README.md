@@ -1,3 +1,4 @@
-# Regina
+# Repository de Regina
 
-lol
+☆ Primera unidad ☆
+
